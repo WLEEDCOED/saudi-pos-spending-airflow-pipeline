@@ -1,4 +1,3 @@
-أكيد، هذا README مختصر واحترافي أكثر، انسخه بدل الطويل:
 
 ````markdown
 # Saudi POS Spending Airflow Pipeline
