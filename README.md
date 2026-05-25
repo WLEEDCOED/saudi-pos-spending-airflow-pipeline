@@ -1,5 +1,4 @@
 
-````markdown
 # Saudi POS Spending Airflow Pipeline
 
 An end-to-end Data Engineering project that extracts, transforms, models, validates, and loads Saudi Point of Sale (POS) spending data using Apache Airflow, Docker, PostgreSQL, Python, and Pandas.
@@ -46,7 +45,6 @@ The project uses two data sources:
 
 This allows analysis by city, region, sector, and time.
 
----
 
 ## Pipeline Architecture
 
