@@ -1,0 +1,29 @@
+# Environment variables / secrets
+.env
+
+# Airflow logs
+logs/
+
+# Data files
+data/raw/
+data/processed/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local database files
+*.db
+*.sqlite
