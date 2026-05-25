@@ -68,7 +68,8 @@ SQL Analytics
 
 ## Airflow DAG
 
-DAG name:
+<img width="1348" height="383" alt="image" src="https://github.com/user-attachments/assets/a004ffcb-1b23-4fba-acda-6a7d6dbf28ac" />
+
 
 ```text
 saudi_pos_spending_pipeline
